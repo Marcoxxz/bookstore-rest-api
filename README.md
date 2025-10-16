@@ -73,8 +73,3 @@ http://localhost:8080/swagger-ui/index.html
 - **Swagger / OpenAPI**  
 
 ---
-
-## 📬 Autor
-Proyecto de ejemplo para prácticas con Spring Boot y Maven.  
-¡Modifícalo y amplíalo según tus necesidades! 🚀
-
